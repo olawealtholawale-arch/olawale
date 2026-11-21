@@ -1,0 +1,6 @@
+{
+  "name": "Wealth Group of Hotel",
+  "description": "Luxury hotel suites, grand event halls, and serviced short-let apartments in Ikorodu and Lagos Island. Book a private inspection online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
